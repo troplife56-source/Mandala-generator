@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.jpg" alt="Logo Générateur de Mandala" width="220" height="220">
+</p>
+<br>
 # 🌀 Générateur de Mandala
 
 Un outil interactif et intuitif conçu pour créer, personnaliser et explorer des motifs géométriques et des mandalas uniques directement depuis votre navigateur.
